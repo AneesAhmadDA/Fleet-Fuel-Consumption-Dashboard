@@ -74,5 +74,17 @@ A data-driven and visually appealing dashboard that analyzes fleet fuel consumpt
 ## How to Run
 
 1. Clone this repo:
-```bash
-git clone https://github.com/yourusername/Fleet-Fuel-Consumption-Dashboard.git
+git clone https://github.com/AneesAhmadDA/Fleet-Fuel-Consumption-Dashboard.git
+
+2.Install the required Python packages:
+pip install matplotlib pandas seaborn
+
+3.Run the dashboard script:
+python Fuel_project.py  #This will generate the visual dashboards and optionally export to PDF.
+
+🤝 Let's Connect
+Feel free to reach out if you’d like a custom dashboard, data analysis, or help with visual storytelling:
+📧 Email: aneesahmadoffical1@gmail.com
+📱 WhatsApp: +92 341 8696929
+🔗 GitHub: github.com/AneesAhmadDA
+
